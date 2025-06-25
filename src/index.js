@@ -5,4 +5,4 @@ for (let i = 1; i <=100; i++) {
     console.log(i)
     
 }
-console.log(resultado)
+console.log("tu resultado es: ",resultado)
